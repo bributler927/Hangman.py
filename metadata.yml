@@ -1,0 +1,12 @@
+---
+:id: 10615120
+:submitters:
+- :name: Bri Butler
+  :email: brianna.butler@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2018-10-26 17:32:52.396509000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2018-10-26 10:32:52.396509000 Z
+:status: processed
+:score: 44.0
